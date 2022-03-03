@@ -2,7 +2,7 @@
 
 - 💻 Hoje faço estágio em uma empresa de tecnologia (Back-End)
 - 📚 Faço faculdade de ADS
-- 📕 Estudando JavaScript, TypeScript...
+- 📕 Estudando React.JS
 
 ##
 
