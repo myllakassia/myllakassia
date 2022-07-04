@@ -1,8 +1,8 @@
 # Olá! Eu sou a Mylena Araújo ☺
 
-- 💻 Hoje faço estágio em uma empresa de tecnologia (Back-End)
+- 💻Open to Work
 - 📚 Faço faculdade de ADS
-- 📕 Estudando React.JS
+- 📕 Estudando Vue.js
 
 ##
 
