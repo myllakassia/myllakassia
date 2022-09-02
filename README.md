@@ -1,8 +1,8 @@
 # Olá! Eu sou a Mylena Araújo ☺
 
-- 💻Open to Work
+- 💻 Apaixonada por tecnologia
 - 📚 Faço faculdade de ADS
-- 📕 Estudando Vue.js
+- 📕 Sempre em busca de conhecimento
 
 ##
 
