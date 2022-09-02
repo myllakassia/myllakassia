@@ -3,7 +3,6 @@
 - 💻 Apaixonada por tecnologia e pessoas! 🧡
 - 📚 Faço faculdade de ADS
 - 📕 O aprendizado é continuo e sempre haverá um próximo nível
-- 
 
 ##
 
