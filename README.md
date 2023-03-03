@@ -1,6 +1,6 @@
 # Olá! Eu sou a Mylena Araújo ☺
 
-- 💻 Apaixonada por tecnologia e pessoas! 🧡
+- 💻 Apaixonada por tecnologia e pela forma como ela pode mudar o mundo.
 - 📚 Formada em ADS
 - 📕 O aprendizado é continuo e sempre haverá um próximo nível
 
